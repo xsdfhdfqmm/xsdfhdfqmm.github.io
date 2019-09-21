@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://www.intelligentmanufacturing.club/"/>
-  <updated>2019-09-03T13:48:24.000Z</updated>
+  <updated>2019-09-21T14:26:06.932Z</updated>
   <id>http://www.intelligentmanufacturing.club/</id>
   
   <author>
@@ -15,6 +15,33 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>社区使用指南</title>
+    <link href="http://www.intelligentmanufacturing.club/2019/09/26/%E7%A4%BE%E5%8C%BA%E5%8F%91%E5%B8%96%E6%8C%87%E5%8D%97/"/>
+    <id>http://www.intelligentmanufacturing.club/2019/09/26/社区发帖指南/</id>
+    <published>2019-09-26T11:31:59.000Z</published>
+    <updated>2019-09-21T14:26:06.932Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;社区简介&quot;&gt;&lt;a href=&quot;#社区简介&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="公告" scheme="http://www.intelligentmanufacturing.club/categories/%E5%85%AC%E5%91%8A/"/>
+    
+    
+      <category term="本站必读" scheme="http://www.intelligentmanufacturing.club/tags/%E6%9C%AC%E7%AB%99%E5%BF%85%E8%AF%BB/"/>
+    
+  </entry>
   
   <entry>
     <title></title>
@@ -90,33 +117,6 @@
     
     
       <category term="Microsoft REST API指南中文翻译" scheme="http://www.intelligentmanufacturing.club/tags/Microsoft-REST-API%E6%8C%87%E5%8D%97%E4%B8%AD%E6%96%87%E7%BF%BB%E8%AF%91/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>社区发帖指南</title>
-    <link href="http://www.intelligentmanufacturing.club/2019/07/02/%E7%A4%BE%E5%8C%BA%E5%8F%91%E5%B8%96%E6%8C%87%E5%8D%97/"/>
-    <id>http://www.intelligentmanufacturing.club/2019/07/02/社区发帖指南/</id>
-    <published>2019-07-02T11:31:59.000Z</published>
-    <updated>2019-09-03T13:48:24.000Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;h1 id=&quot;社区发帖指南&quot;&gt;&lt;a href=&quot;#社区发帖指南&quot; class=&quot;headerlink&quot;
-        
-      
-    
-    </summary>
-    
-    
-      <category term="公告" scheme="http://www.intelligentmanufacturing.club/categories/%E5%85%AC%E5%91%8A/"/>
-    
-    
-      <category term="发帖必读" scheme="http://www.intelligentmanufacturing.club/tags/%E5%8F%91%E5%B8%96%E5%BF%85%E8%AF%BB/"/>
     
   </entry>
   
